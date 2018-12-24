@@ -3,7 +3,7 @@
 """
 Created on Mon Dec  3 11:44:28 2018
 
-@author: classic
+@author: Ahmadi
 """
 
 import random
