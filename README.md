@@ -1,4 +1,4 @@
-# Computational-Physics-Examples
+# Computational Physics Examples
 *Author: Abolfazl Ahmadi rahmat*
 <br>
 * Multiplication of two Polynomials
