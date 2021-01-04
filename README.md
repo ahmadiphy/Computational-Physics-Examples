@@ -2,6 +2,6 @@
 *Author: Abolfazl Ahmadi Rahmat*
 <br>
 * Multiplication of two Polynomials
-* Euler method ordinary differential equation
+* Euler method to solve ordinary differential equations
 * Monte Carlo method for integration
 * 2 Dimensional Random Walk
